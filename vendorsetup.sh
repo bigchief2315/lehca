@@ -1,0 +1,2 @@
+add_lunch_combo omni_Nitro_5P-userdebug
+add_lunch_combo omni_Nitro_5P-eng
